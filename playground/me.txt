@@ -1,0 +1,5 @@
+{{#user}}
+Name: Lokesh Choudhary
+Skills: HTML, CSS, JS,REACT.JS,NODE.JS,EXPRESS.JS,MONGODB,TYPESCRIPT,GRAPHQL,GIT,GITHUB
+Email: lokeshchoudhary2026@gmail.com
+{{/user}}
